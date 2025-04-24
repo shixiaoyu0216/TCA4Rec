@@ -1,7 +1,7 @@
 Code for our Journal of Big Data 2025 Paper[**“TCA4Rec: Contrastive Learning with Popularity-aware Asymmetric Augmentation for Robust Sequential Recommendation”**]
 
 
-<img src="figs/Framework.png" alt="Framework" style="zoom:100%;" />
+<img src="fig/Framework.png" alt="Framework" style="zoom:100%;" />
 
 ## Installation
 
